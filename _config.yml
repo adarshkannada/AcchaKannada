@@ -1,0 +1,125 @@
+# External gems
+gems:
+  # - jekyll-archives # Sorry, not GitHub pages friendly!
+  - jekyll-sitemap
+  
+gems: [jekyll-paginate, jekyll-seo-tag]
+
+exclude:
+  - "/vendor/"
+
+excerpt_separator: <!--more-->
+
+# Site settings
+title: ಅಚ್ಚಕನ್ನಡ
+subtitle: "ಕನ್ನಡದ ನಿತ್ಯ ಉತ್ಸವ"
+email: adarshkannada@gmail.com
+name: Adarsh Kannada
+description: > 
+  The Kannada Blog. 
+  ಇದು ನಮ್ಮ ಜೀವನಕ್ಕೆ ಸಿಕ್ಕ ಅನುಭವ, ಒಡನಾಡಿಗಳು, ಸುತ್ತಲ ಪರಿಸರ ಕೊಟ್ಟ ವಿಷಯಗಳ ಕನ್ನಡಿ.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://acchakannada.com" # the base hostname & protocol for your site
+cover: "/assets/acchakannada.jpg"
+logo: "/assets/logogreen.png"
+
+# Build settings
+markdown: kramdown
+paginate: 5
+paginate_path: "/page:num/"
+
+# Archive settings (see https://github.com/jekyll/jekyll-archives/)
+jekyll-archives: 
+enabled:
+- categories
+- tags
+layout: 'archive'
+permalinks:
+category: '/category/:name/'
+tag: '/tag/:name/'
+
+# Disqus comments
+disqus_shortname: acchakannada
+
+# Google analytics
+ga_tracking_id: UA-89708627-1
+
+# Category descriptions (for archive pages)
+descriptions:
+
+  - cat: acchakannada
+    desc: "Posts related to acchakannada blog"
+    
+  - cat: Discussion
+    desc: "Posts discussing certain concepts and theories"
+    
+  - cat: Poem
+    desc: "Poems published in acchakannada"
+
+# Social icons and sharing options
+#
+# Social settings are used in two places:
+# * In the footer, as links to your personal profiles
+# * After each blog post for sharing widgets
+# 
+# Example:
+# 
+# social:
+#   - name: Twitter                         # Name of the service
+#     icon: twitter                         # Font Awesome icon to use (minus fa- prefix)
+#     username: "@TheBenCentra"             # (User) Name to display in the footer link
+#     url: https://twitter.com/TheBenCentra # URL of your profile (leave blank to not display in footer)
+#     desc: Follow me on Twitter            # Description to display as link title, etc
+#     share: true                           # Include in the "Share" section of posts
+social:
+  - name: Twitter
+    icon: twitter
+    username:
+    url: 
+    desc: Share on Twitter
+    share: true
+
+  - name: Facebook
+    icon: facebook
+    username: AcchaKannada
+    url: https://www.facebook.com/AcchaKannada
+    desc: The Official Page of AcchaKannada Blog.
+    share: true
+
+  - name: YouTube
+    icon: youtube
+    username: 
+    url: 
+    desc: Subscribe on YouTube
+    share: false
+
+  - name: Instagram
+    icon: instagram
+    username: 
+    url: 
+    desc: Follow me on Instagram
+    share: false
+
+  - name: SoundCloud
+    icon: soundcloud
+    username: 
+    url: 
+    desc: Follow me on SoundCloud
+    share: false
+
+
+
+# Social sharing protocols
+# These are for automatically generating sharing metadata for FB and Twitter
+# OS Protocol is for sharing the source of your site, if you're interested. For more, see osprotocol.com
+protocols:
+    fb_image: "/assets/logo.png"
+    fb_image_width: 612
+    fb_image_height: 605
+    fb_image_type: "image/png"
+
+    twitter_image: "/assets/logo.png"
+
+    os_repo: "https://github.com/RichardLitt/wordhoardpress.com"
+    os_rcs_type: "git"
+    os_src: "git@github.com:RichardLitt/wordhoardpress.com.git"

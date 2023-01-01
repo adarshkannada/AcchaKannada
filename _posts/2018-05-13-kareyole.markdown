@@ -1,0 +1,21 @@
+---
+layout: post
+title: "ಕರೆಯೋಲೆ"
+date: 2018-05-13
+author: Adarsha
+categories: Poem
+tags:	AcchaKannada Kannada Poem kavana happy life love preethi prema couple marriage
+cover: "assets/kareyole-acchakannada.jpg"
+description: ಹದವಾದ ಜೀವನದಲ್ಲಿ ಮುದ ನೀಡುವ ಬಂಧನಕೆ, ಮದುವೆ ಜೀವನವೇ ಇನ್ನು ಜೋಡಿ ಮನದ ಹರಕೆ!
+---
+<p align ="center">ಹದವಾದ ಜೀವನದಲ್ಲಿ ಮುದ ನೀಡುವ ಬಂಧನಕೆ,<br>
+ಮದುವೆ ಜೀವನವೇ ಇನ್ನು ಜೋಡಿ ಮನದ ಹರಕೆ!</p>
+
+<p align ="center">ನಿಮ್ಮ ಆಗಮನವೇ ಚಪ್ಪರ,<br>
+ಶುಭ ಹರಕೆಯೇ ಮಂಟಪ,<br>
+ನಿಮ್ಮ ಜೊತೆಯೇ ಸಾಗಬೇಕು ನಮ್ಮ ಮದುವೆಯ ಸಡಗರ!</p>
+
+<p align ="center">ನಿಮ್ಮ ನಡುವೆಯೇ ಶುರುವಾಗಲಿ ನಮ್ಮ ಹೊಸ ಪಯಣ<br>
+ಆ ಶುಭ ದಿನಕೆ ಬಯಸಿಹೆವು ನಿಮ್ಮಯ ಆಗಮನ!</p>
+
+<p align ="center">- ಆದರ್ಶ</p>
