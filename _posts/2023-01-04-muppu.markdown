@@ -1,0 +1,24 @@
+---
+
+layout: post
+title: "ಮುಪ್ಪು"
+date: 2023-01-04
+author: Adarsha
+categories: Poem
+tags: AcchaKannada Kannada Life Karnataka India Poem Happy Sad Young Old debate marriage love
+cover: "assets/muppu.jpg"
+description: ಅತ್ತ ಯವ್ವನ ಇತ್ತ ಮುಪ್ಪು, ನಡುವೆ ಇರೋದು ಯಾರ ತಪ್ಪು?
+
+---
+
+<p align ="center"> ಅತ್ತ ಯವ್ವನ ಇತ್ತ ಮುಪ್ಪು, <br>
+ನಡುವೆ ಇರೋದು ಯಾರ ತಪ್ಪು? <br>
+ಅತ್ತ ಹೆಂಡತಿ, ಇತ್ತ ಹಳೆ ಹುಡುಗಿ, <br>
+ನಡುವೆ ಉಳಿದರು, ಹುಡುಗರು ನಡುಗಿ. <br>
+ಹರಿವ ನೀರು ಹರಿದುಬಿಡಲಿ, <br>
+ಗೊಂದಲಕೆ ಹುಡುಗ್ರು ಮದುವೆಯಾಗಿಬಿಡ್ಲಿ. <br>
+ಅತ್ತ ಯವ್ವನ ಇತ್ತ ಮುಪ್ಪು, <br>
+ಸಂಸಾರದಿ ಉಳಿಬಾರದು ತಪ್ಪು ಒಪ್ಪು. </p>
+
+<p align ="center"> - ಆದರ್ಶ </p>
+
