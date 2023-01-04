@@ -1,5 +1,4 @@
 ---
-
 layout: post
 title: "ಅತ್ತ-ಇತ್ತ"
 date: 2023-01-04
@@ -8,7 +7,6 @@ categories: Poem
 tags: AcchaKannada Kannada Life Karnataka India Poem Happy Sad Young Old debate marriage love
 cover: "assets/muppu.jpg"
 description: ಅತ್ತ ಯವ್ವನ ಇತ್ತ ಮುಪ್ಪು, ನಡುವೆ ಇರೋದು ಯಾರ ತಪ್ಪು?
-
 ---
 <p align ="center"> ೧ </p>
 
