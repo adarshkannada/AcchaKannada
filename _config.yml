@@ -1,9 +1,9 @@
 # External gems
-gems:
-  # - jekyll-archives # Sorry, not GitHub pages friendly!
-  - jekyll-sitemap
-  
-gems: [jekyll-paginate, jekyll-seo-tag]
+# gems:
+#   # - jekyll-archives # Sorry, not GitHub pages friendly!
+#   - jekyll-sitemap
+
+plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap]
 
 exclude:
   - "/vendor/"
