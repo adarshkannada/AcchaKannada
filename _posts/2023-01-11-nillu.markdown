@@ -1,0 +1,29 @@
+---
+layout: post
+title: "ನಿಲ್ಲು"
+date: 2023-01-11
+author: Adarsha
+categories: Poem
+tags: AcchaKannada Kannada Life Karnataka India Poem Happy Sad Young Old debate philosphy win lose giveup try
+cover: "assets/nillu-acchakannada.jpg"
+description: ನನ್ನೊಡನೆ ನಾ ಗುದ್ದಾಡಲೆ, ಅಥವಾ ಸುಮ್ಮನಿದ್ದು ಬಿಡಲೇ?
+---
+
+<p align ="center"> ಗಾಳಿಯೊಡನೆ ಗುದ್ದಾಡಿ ನಿಲ್ಲಲೆ, <br>
+ಅಥವಾ ಕುಸಿದುಬಿಡಲೆ? <br>
+ನೀರಲ್ಲಿ ಈಜಿ ತೇಲಲೆ, <br>
+ಅಥವಾ ದಣಿದು ಮುಳುಗಿಬಿಡಲೇ? <br>
+ಹೋರಾಟ ದಿನ-ದಿನ ಒಳಗೆ, <br>
+ಬದುಕು ನಿಲ್ಲದ ಕಾಳಗ ಕೊನೆಗೆ. </p>
+
+<p align ="center"> ಒಳಗಿನದೆಲ್ಲ ಕಕ್ಕಲೆ, <br>
+ಅಥವಾ ಹೊರಗಿನೊಂದಿಗೆ ಬೆರೆಯಲೆ? <br>
+ಒಳನೋಟ ಕೊನೆಯಿರದ ಬಯಲು, <br>
+ಸುಮ್ಮನಾಗದೀ ಒಳಗಿನ ಅಲೆ. </p>
+
+<p align ="center"> ನನ್ನೊಡನೆ ನಾ ಗುದ್ದಾಡಲೆ, <br>
+ಅಥವಾ ಸುಮ್ಮನಿದ್ದು ಬಿಡಲೇ? <br>
+ಹೋರಾಟ ಇನ್ನೆಷ್ಟು ದಿನ ಒಳಗೆ, <br>
+ಬದುಕು ಒಳಗೂ ಹೊರಗಿನ ಕಾಳಗ ಕೊನೆಗೆ. </p>
+
+<p align ="center"> - ಆದರ್ಶ </p>
