@@ -1,0 +1,27 @@
+---
+layout: post
+title: "ಮನೆ"
+date: 2023-01-16
+author: Adarsha
+categories: Poem
+tags: AcchaKannada Kannada Life Karnataka India Poem Happy Sad Young Old debate philosphy family friends love home
+cover: "assets/mane-acchakannada.jpg"
+description: ಹೊರಗೋಗಿ ಮಾಡೋದೇನಿದೆ, ಬೆಚ್ಚಗೆ ಮನೆಯಾಗಿರಣ.
+---
+
+<p align ="center"> ಮನೆಯೆ ಕರ್ಮ ಭೂಮಿ, <br>
+ಮನೆಯೆಲ್ಲೆ ಮಾರ್ನವಮಿ. <br>
+ಮನೆಯೆ ನಮ್ಮ ಗರಡಿ, <br>
+ಮನೆಯ ಹೊಸಿಲೆ ನಮ್ಮ ಗಡಿ. </p>
+
+<p align ="center">  ಕುಶಿ ಹುಡುಕ್ಕಂಡು ಯಾವ ಬೆಟ್ಟಕ್ಕೋಗ್ತಿ, <br>
+ಮನೆಯಲ್ಲೆ ಬಗ್ನೋಡಿ. <br>
+ಹೊರಗೋಗಿ ಉಗುಸ್ಕೊಳ್ಳೋದೇನಿದೆ, <br>
+ಮನೆಯೆ ನಮ್ಮ ಗುಡಿ. </p>
+
+<p align ="center"> ಮನೆಯಲ್ಲೆ ಜೀವನ, <br>
+ಮನೆಯಲ್ಲೆ ಮಸಣ. <br>
+ಹೊರಗೋಗಿ ಮಾಡೋದೇನಿದೆ, <br>
+ಬೆಚ್ಚಗೆ ಮನೆಯಾಗಿರಣ. </p>
+
+<p align ="center"> - ಆದರ್ಶ </p>
