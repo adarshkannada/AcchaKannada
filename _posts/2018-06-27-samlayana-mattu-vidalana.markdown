@@ -3,7 +3,7 @@ layout: post
 title: "ಸಂಲಯನ ಮತ್ತು ವಿದಳನ"
 date: 2018-06-27
 author: Adarsha
-categories: Discussion
+categories: Science
 tags: AcchaKannada Kannada Life nature prakruthi human manushyaru sambandha relations
 cover: "assets/samlayana-mattu-vidalana-acchakannada.jpg"
 description: ಮನುಷ್ಯರ ನಡುವೆ ಸಂಬಂಧ ಒಡೆಯುವುದಕ್ಕಿಂತ ಹೆಚ್ಚು ಶಕ್ತಿ ಸಂಬಂಧ ಬೆಳೆಸುವುದಕ್ಕೆ ಬೇಕು. ಹಾಗಾಗಿಯೇ ನಾವಿನ್ನು ಸಂಬಂಧಗಳ ಬೆಸೆದು ಹಿಡಿದಿಟ್ಟುಕೊಳ್ಳುವುದ ಕಲಿಯದೇ ಹಾಗೆ ಉಳಿದಿದ್ದೇವೆ.
