@@ -1,0 +1,27 @@
+---
+layout: post
+title: "ದೀಪ"
+date: 2023-01-25
+author: Adarsha
+categories: Poem
+tags: AcchaKannada Kannada Life Karnataka India Poem Happy Sad Young Old debate philosphy family friends love home light beladu deepa
+cover: "assets/deepa-acchakannada.jpg"
+description: ಮನದಾಳದ ಬೆತ್ತಲೆಗೆ, ಬೆಳಕ ಚೆಲ್ಲಿ, ಅರೆಘಳಿಗೆಗಾರು ನಾವು, ನಲಿವ ಇಲ್ಲಿ.
+---
+
+<p align ="center"> ದೀಪ ಹಚ್ಚು ಮನವೆ, ಬೆಳಕು ಹರಿದುಬಿಡಲಿ. <br>
+ಚೆಲ್ಲು ಬೆಳಕ ಒಲವೆ, ಮನವು ಕರಗಿಬಿಡಲಿ. <br>
+ಮನದಾಳದ ಕತ್ತಲಿಗೆ ಮಸಿಯ ಬಳಿದು, <br>
+ಪಸರಿಸಲಿ ಒಳಗೆ, ಭಿನ್ನ ಕಿತ್ತೊಗೆದು. </p>
+
+<p align ="center"> ನನಗಂತೂ ಒಲವು ಗಗನ ಕುಸುಮ, <br>
+ಹೊಂದಿಕೊಳ್ಳಲಿ ಹೇಗೆ? <br>
+ಅನುಸರಿಕೆ ಈಗ ನೀರಲ್ಲಿ ಹೋಮ, <br>
+ಅಸುನೀಗುವುದೆ ಬೇಗೆ? </p>
+
+<p align ="center"> ದೀಪ ಹಚ್ಚು ಮನವೆ, ಕಡುನೆನಪು ಕರಗಲಿ, <br>
+ಬೆಳಕಿನಡಿಯಲಿ ಇಂದು, ಹೊಸ ದಾರಿ ಕಾಣಲಿ. <br>
+ಮನದಾಳದ ಬೆತ್ತಲೆಗೆ ಬೆಳಕ ಚೆಲ್ಲಿ, <br>
+ಅರೆಘಳಿಗೆಗಾರು ನಾವು, ನಲಿವ ಇಲ್ಲಿ. </p>
+
+<p align ="center"> - ಆದರ್ಶ </p>
