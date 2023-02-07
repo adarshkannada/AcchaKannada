@@ -1,0 +1,27 @@
+---
+layout: post
+title: "ಮನುಜ"
+date: 2023-02-07
+author: Adarsha
+categories: Poem
+tags: AcchaKannada Kannada Life Karnataka India Poem Happy Sad Young Old debate philosphy me manuja jeevana human
+cover: "assets/manuja-acchakannada.jpg"
+description: ನಾವು ಅಳದವರಾಗಿರಬೋದು, ನೋವು ಅರಿಯದವರಲ್ಲ, ಮರುಗದವರಾಗಿರಬೋದು, ಮನ್ಸಿಲ್ಲದೋರಲ್ಲ.
+---
+
+<p align ="center"> ನಾವು ಕಟುಕರಾಗಿರಬೋದು, ಮನ್ಶತ್ವ ಇಲ್ದೋರಲ್ಲ. <br>
+ಅನುಕಂಪ ತೋರದಿರಬೋದು, ನಡೆಯಲ್ಲಿ ಸುಳ್ಳಿಲ್ಲ. <br>
+ಇದು ನಮಗೆ ಪರಿಸರ ಕೊಟ್ಟ ರೂಪ, <br>
+ಇದರರಿವು ಎಲ್ಲರಿಗಲ್ಲ, ಆದರಿದಲ್ಲ ಶಾಪ. </p>
+
+<p align ="center"> ನಾವು ಅಳದವರಾಗಿರಬೋದು, ನೋವು ಅರಿಯದವರಲ್ಲ. <br>
+ಮರುಗದವರಾಗಿರಬೋದು, ಮನ್ಸಿಲ್ಲದೋರಲ್ಲ. <br>
+ಈ ಗುಣವ ಒಳಗೆ ಬೆಳೆಸಿದೆ ಸುತ್ತಲ ಲೋಕ, <br>
+ಇದರಾಳ ಎಲ್ಲರಿಗಲ್ಲ, ಅಡಗಿದೆ ಒಳಗೆಲ್ಲ ನಾಕ. </p>
+
+<p align ="center"> ನಾವು ಮನುಜರಾಗಿರಬೋದು, ಸಹಜನರಲ್ಲ. <br>
+ಒರಟರಾಗಿರಬೋದು, ಕರುಣೆ ಇರದವರಲ್ಲ. <br>
+ಇದೆ ನಮ್ಮ ಒಳಗೆ ಪರಿಸರ ಬಿತ್ತ ಬೀಜ, <br>
+ಎಲ್ಲರಂಗೆ ನಾವಲ್ಲ, ಇದೆ ನಮ್ಮ ನಿಜ. </p>
+
+<p align ="center"> - ಆದರ್ಶ </p>
