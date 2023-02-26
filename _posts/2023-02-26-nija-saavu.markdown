@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ಮನುಜ"
+title: "ನಿಜ ಸಾವು"
 date: 2023-02-26
 author: Adarsha
 categories: Poem
