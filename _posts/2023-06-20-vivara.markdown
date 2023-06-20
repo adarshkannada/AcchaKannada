@@ -1,0 +1,27 @@
+---
+layout: post
+title: "ವಿವರ"
+date: 2023-06-20
+author: Adarsha
+categories: Poem
+tags: AcchaKannada Kannada Life Karnataka India Poem Happy Sad Young Old debate philosphy me manuja jeevana human
+cover: "assets/vivara-acchakannada.jpg"
+description: ಬದುಕಿಗೊಂದು ವಿವರಣೆ ಬೇಕೆ?
+---
+
+<p align ="center"> ವಿವರವೆಲ್ಲಿ ಬದುಕಿಗೆ, <br>
+ಬೆಳಗ್ಗೆ ಬಂದೋದ ಕನಸಿಗೆ. <br>
+ಪ್ರವರ ಎಲ್ಲಿ ನಾಳೆಗೆ, <br>
+ಇಂದು ಸಿಕ್ಕ ಗಳಿಗೆಗೆ. </p>
+
+<p align ="center"> ಹೊಸತು ಸದ್ದು ಕೇಳುವ, <br>
+ಬದುಕು ಯಾರ ದೀವಿಗೆ? <br>
+ನಿತ್ಯ ಪ್ರಶ್ನೆ ಕೇಳುವ, <br>
+ಮನವು ನಡೆವುದೆಲ್ಲಿಗೆ? </p>
+
+<p align ="center"> ವಿವರ ಯಾಕೆ ಬದುಕಿಗೆ, <br>
+ತಾನೇ ಬಂದ ಒಳಿತಿಗೆ. <br>
+ಗುರಿಯೊಂದ ಅರಸೊದ್ಯಾಕೆ, <br>
+ತಾನೇ ತಲುಪಿಸುವುದು ಬಾಳ ನಡಿಗೆ. </p>
+
+<p align ="center"> - ಆದರ್ಶ </p>
