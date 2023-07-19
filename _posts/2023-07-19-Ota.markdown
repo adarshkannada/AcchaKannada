@@ -1,0 +1,22 @@
+---
+layout: post
+title: "ಓಟ"
+date: 2023-07-19
+author: Adarsha
+categories: Poem
+tags:	AcchaKannada Kannada Life Karnataka India Poem Happy Sad Young me run escape girl romance love hate
+cover: "assets/ota-acchakannada.jpg"
+description: ಓಟ
+---
+
+<p align ="center"> ಬಿರುಗಾಳಿಯಂತ ನಡೆ, <br>
+ಬಿರುಸಾದ ನುಡಿ. <br>
+ಬೆಂಕಿಯಂತ ನೋಟ, <br>
+ಇಂತವಳ್ಹಿಂದೆ ಎಲ್ಲ ಓಟ. </p>
+
+<p align ="center"> ಹಗುರ ನಡೆ, <br>
+ಬಿಗಿಯಲ್ಲ ಜಡೆ, <br>
+ಇರದು ಒಪ್ಪುವ ಒಳನೋಟ, <br>
+ಇಂತವಳಿಂದ ದೂರ ಓಟ. </p>
+
+<p align ="center"> - ಆದರ್ಶ </p>
