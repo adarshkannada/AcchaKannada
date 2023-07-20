@@ -6,7 +6,7 @@ author: Adarsha
 categories: Poem
 tags:	AcchaKannada Kannada Life Karnataka India Poem Happy Sad Young me run escape girl romance love hate
 cover: "assets/ota-acchakannada.jpg"
-description: ಓಟ
+description: ಬದುಕಿನ ಓಟ
 ---
 
 <p align ="center"> ಬಿರುಗಾಳಿಯಂತ ನಡೆ, <br>
