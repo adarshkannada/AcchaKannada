@@ -1,0 +1,23 @@
+---
+layout: post
+title: "ಗೋಡೆ"
+date: 2023-07-25
+author: Adarsha
+categories: Poem
+tags:	AcchaKannada Kannada Life Karnataka India Poem Happy Sad Young me run escape girl romance love hate happiness
+cover: "assets/gode-acchakannada.jpg"
+description: ಎಲ್ಲ ಬರೆಸಿಕೊಳ್ಳುವ ಮನದ ಗೋಡೆ
+---
+<p align ="center"> ದೊಡ್ಡ ಗೋಡೆಯೊಂದಿರಬೇಕು ಮನೆಯಲಿ. <br>
+ಹಳೆ ನೆನಪು ಮೆಲುಕು ಹಾಕಲು. <br>
+ಮನದ ಮೇಲೆ ಗೀಚಿದ, ಕಲೆಗಳ ಅಳಿಸಲು. </p>
+
+<p align ="center"> ದೊಡ್ಡ ಗೋಡೆಯೊಂದಿರಬೇಕು ಮನೆಯಲಿ, <br>
+ಎಲ್ಲೂ ಆಡದ ಮಾತ ಬರೆಯಲು, <br>
+ಯಾರೂ ಕೇಳದ ಗುಟ್ಟ ತೆರೆಯಲು. </p>
+
+<p align ="center"> ಬಿಳಿ ಗೊಡೆ ಇರಬೇಕು ಮನೆಯಲಿ, <br>
+ಮನದ ಬಣ್ಣ ಎರಚುತಿರಲು, <br>
+ಮನಸನ್ನು ಮತ್ತೆ ತಿಳಿ ಮಾಡಲು. </p>
+
+<p align ="center"> - ಆದರ್ಶ </p>
