@@ -1,0 +1,32 @@
+---
+layout: post
+title: "ಜೊತೆ"
+date: 2023-08-02
+author: Adarsha
+categories: Poem
+tags:	AcchaKannada Kannada Life Karnataka India Poem Happy Sad Young me run escape girl romance love hate happiness
+cover: "assets/jote-acchakannada.jpg"
+description: ಜೊತೆಯಾಗಬೇಕು ಎದೆಗೆ ಎದೆ, ತೊಡೆಗೆ ತೊಡೆ, ತೋಳಿಗೆ ತೋಳು ತಟ್ಟಿ ಜೊತೆ ನಿಲ್ಲೋಳು.
+---
+
+<p align ="center"> ಜೊತೆಯಾಗಬೇಕು ಎದೆಗೆ ಎದೆ, ತೊಡೆಗೆ ತೊಡೆ, <br>
+ತೋಳಿಗೆ ತೋಳು ತಟ್ಟಿ, ಜೊತೆ ನಿಲ್ಲೋಳು. <br>
+ಬೆಟ್ಟ, ಕಾಡು, ಕಣಿವೆ, ನಾಡಲ್ಲೂ ನೆರಳಾಗಿರೋಳು. <br>
+ಮುಗಿಲೆತ್ತರದ ಬೆಟ್ಟ ಏರೋಳು, <br>
+ಕಡಲಾಳಕೆ ಈಜೋಳು, <br>
+ಜೊತೆಯಾಗಬೇಕು ಬದುಕಿಗೆ ಇಂತೋಳು. </p>
+
+<p align ="center"> ಊರೊಂದಿಗಿನ ಕಾಳಗದಲಿ ಬೆನ್ನಿಗಿರೋಳು, <br>
+ತುಂಬಿಕೊಂಡು ಸಿಡುಗೋಪ ಕಂಗಳ. <br>
+ಮೃದುವಾಗಿ ದಿನದಿನವೂ ಬೆಳೆಸುವಳು ಹೂಗಳ, <br>
+ತುಂಬುಂವಂತೆ ಮನೆಯಂಗಳ. </p>
+
+
+<p align ="center"> ಜೊತೆಯಾಗಬೇಕು ಎದೆಗೆ ಎದೆ, ತೊಡೆಗೆ ತೊಡೆ, <br>
+ತೋಳಿಗೆ ತೋಳು ತಟ್ಟಿ, ಜೊತೆ ನಿಲ್ಲೋಳು. <br>
+ಬದುಕಿನ ಬೆಳಕಲ್ಲಿ ನೆರಳಾಗಿರೋಳು, <br>
+ಕತ್ತಲೆಯಲ್ಲಿ ಅರಿವಾಗುವವಳು, <br>
+ಒಡಲಾಳಕೆ ಇಳಿವವಳು, <br>
+ಜೊತೆಯಾಗಬೇಕು ಬದುಕಿಗೆ ಇಂತೋಳು. </p>
+
+<p align ="center"> - ಆದರ್ಶ </p>
