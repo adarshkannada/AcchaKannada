@@ -3,7 +3,7 @@ layout: post
 title: "ತೇಜಸ್ವಿ ಮನೆ"
 date: 2023-11-16
 author: Adarsha
-categories: Discussion
+categories: Experience
 tags:	AcchaKannada Kannada Life Karnataka India discussion kuvempu tejasvi philosophy regret happy memory travel sakleshpura bikeride
 cover: "assets/tejasvi-mane.jpg"
 description: ಜೀವನದಲ್ಲಿ ತಪ್ಪು ಮಾಡದೆ ಇರೋಕಾಗುತ್ತಾ?, ತಪ್ಪು ಮಾಡಿದಮೇಲೆ ಕೊರಗದೆ ಇರೋಕಾಗುತ್ತಾ? ಹಂಗಾದಾಗ ಕೊರಗದೆ ಇರೋದೆಂಗೆ?
