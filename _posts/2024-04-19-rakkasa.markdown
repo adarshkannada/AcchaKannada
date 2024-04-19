@@ -1,0 +1,23 @@
+---
+layout: post
+title: "ರಕ್ಕಸ"
+date: 2024-04-19
+author: Adarsha
+categories: Poem
+tags:	AcchaKannada Kannada Life Karnataka India Poem Happy Sad Young me happiness live greatfull anger sittu kopa
+cover: "assets/rakkasa-acchakannada.jpg"
+description: ಮಳೆ ತುಂಬಿ ಮೋಡ ಕರಗದೆ ನಿಂತಂಗೆ, ಹೊಳೆ ತುಂಬಿದರೂ ನುಗ್ಗಿ ಹರಿಯದಂಗೆ!
+---
+<p align ="center"> ಒಳಗೊಬ್ಬ ರಕ್ಕಸ ಬಿಗಿಹಿಡಿದು ಕಳಿತಾನೆ, <br>
+ಕಾಡೊಳಗೆ ಕುಳಿತಂಗೆ ಗಂಡಾನೆ <br>
+ನನ್ನೊಳಗೆ, ಸಿಟ್ಟೆಲ್ಲ ಹಿಡಿದಿರುವೆ ನಾನೆ. </p>
+
+<p align ="center"> ಮಳೆ ತುಂಬಿ ಮೋಡ ಕರಗದೆ ನಿಂತಂಗೆ, <br>
+ಹೊಳೆ ತುಂಬಿದರೂ ನುಗ್ಗಿ ಹರಿಯದಂಗೆ <br>
+ನನ್ನ, ಭಾವನೆಯಲ್ಲ ಕಟ್ಟಿಟ್ಟ ಸೋಗೆ. </p>
+
+<p align ="center"> ಒಳಗೊಬ್ಬ ರಕ್ಕಸ ಕುಣಿದಾಡುತಾನೆ <br>
+ತಲೆಮೇಲೆ ಕುಂತಂಗೆ ರುದ್ರ <br>
+ಇನ್ನು, ಹೊಲದೊಳಗೆ ನುಗ್ಗಿದಂಗೆ ಮದ್ದಾನೆ. </p>
+
+<p align ="center"> - ಆದರ್ಶ </p>
