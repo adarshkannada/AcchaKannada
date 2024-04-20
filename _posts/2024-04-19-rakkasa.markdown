@@ -8,7 +8,7 @@ tags:	AcchaKannada Kannada Life Karnataka India Poem Happy Sad Young me happines
 cover: "assets/rakkasa-acchakannada.jpg"
 description: ಮಳೆ ತುಂಬಿ ಮೋಡ ಕರಗದೆ ನಿಂತಂಗೆ, ಹೊಳೆ ತುಂಬಿದರೂ ನುಗ್ಗಿ ಹರಿಯದಂಗೆ!
 ---
-<p align ="center"> ಒಳಗೊಬ್ಬ ರಕ್ಕಸ ಬಿಗಿಹಿಡಿದು ಕಳಿತಾನೆ, <br>
+<p align ="center"> ಒಳಗೊಬ್ಬ ರಕ್ಕಸ ಬಿಗಿಹಿಡಿದು ಕುಳಿತಾನೆ, <br>
 ಕಾಡೊಳಗೆ ಕುಳಿತಂಗೆ ಗಂಡಾನೆ <br>
 ನನ್ನೊಳಗೆ, ಸಿಟ್ಟೆಲ್ಲ ಹಿಡಿದಿರುವೆ ನಾನೆ. </p>
 
@@ -18,6 +18,6 @@ description: ಮಳೆ ತುಂಬಿ ಮೋಡ ಕರಗದೆ ನಿಂತಂ
 
 <p align ="center"> ಒಳಗೊಬ್ಬ ರಕ್ಕಸ ಕುಣಿದಾಡುತಾನೆ <br>
 ತಲೆಮೇಲೆ ಕುಂತಂಗೆ ರುದ್ರ <br>
-ಇನ್ನು, ಹೊಲದೊಳಗೆ ನುಗ್ಗಿದಂಗೆ ಮದ್ದಾನೆ. </p>
+ಇನ್ನು, ಹೊಲದೊಳಗೆ ನುಗ್ಗಲು ಕಾದಂಗೆ ಮದ್ದಾನೆ. </p>
 
 <p align ="center"> - ಆದರ್ಶ </p>
