@@ -1,0 +1,27 @@
+---
+layout: post
+title: "ಹುಡುಕಿ"
+date: 2024-04-30
+author: Adarsha
+categories: Poem
+tags:	AcchaKannada Kannada Life Karnataka India Poem Happy Sad Young me happiness live greatfull search huduku huduki
+cover: "assets/huduki-acchakannada.jpeg"
+description: ಹೊತ್ತಿದು ಸಿಲುಕಿದೆ, ತನ್ನದೆ ಸುಳಿಯಲ್ಲಿ. ಬದುಕೊಂದು ಬಯಲಾಟ, ನನ್ನದೆ ಕೈಯ್ಯಲ್ಲಿ.
+---
+
+<p align ="center"> ಯಾರಾದ್ರು ಹುಡುಕೊಡ್ರಿ, ಎಲ್ಲೋದ್ನೊ ಗೊತ್ತಿಲ್ಲ. <br>
+ಒಳಗೆಲ್ಲೇ ನೋಡಿರೂ ನಾ ಕೈಗೆ ಸಿಗ್ತಿಲ್ಲ, <br>
+ಟೈಮೊಂದು ೪೨೦ ಎದ್ದೆದ್ದು ಓಡತೈತೆ, <br>
+ತಿರುತಿರುಗಿ ನೋಡಿದರೂ ಅಟ್ಟಿಸಿ ಬರತೈತೆ. </p>
+
+<p align ="center"> ಯಾರಾದ್ರೂ ಹೊಡುಕಿಕೊಡ್ರಿ, ನೆರಳೆಲ್ಲೂ ಕಂಡಿಲ್ಲ. <br>
+ಬಿಸಿಲಾಗೆ ಅಲಿದಾಟ ಇನ್ನೂ ಯಾಕೊ ನಿಂತಿಲ್ಲ. <br>
+ಊರೊಂದು ಕಾಣದು, ಸುತ್ತೆಲ್ಲ ಬಯಲು, <br>
+ಎತ್ತೆತ್ತ ನೋಡಿದರೂ ಕಣ್ಣಿಗೆ ಅಮಲು. </p>
+
+<p align ="center"> ಯಾರಾದ್ರು ಹುಡುಕಿಕೊಡ್ರಿ, ಎಲ್ಲಿದ್ದೀನೊ ಗೊತ್ತಿಲ್ಲ. <br>
+ಹೊರಗೆಲ್ಲಿ ನೋಡಿರೂ ನಾನೇ ಕಾಣ್ತಿಲ್ಲ. <br>
+ಹೊತ್ತಿದು ಸಿಲುಕಿದೆ, ತನ್ನದೆ ಸುಳಿಯಲ್ಲಿ, <br>
+ಬದುಕೊಂದು ಬಯಲಾಟ, ನನ್ನದೆ ಕೈಯ್ಯಲ್ಲಿ. </p>
+
+<p align ="center"> - ಆದರ್ಶ </p>
