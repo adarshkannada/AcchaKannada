@@ -13,8 +13,11 @@
     <nav role="navigation">
       <ul id="js-navigation-menu" class="navigation-menu show">
       	{% for page in site.pages %}
-          {% if page.title and page.main_nav != false %}
+          {% if page.title and page.title != 'ತಂತ್ರಜ್ಞಾನ' and page.main_nav != false %}
           <li class="nav-link"><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+          {% endif %}
+          {% if page.title == 'ತಂತ್ರಜ್ಞಾನ' and page.main_nav != false %}
+          <li class="nav-link"><a href="https://tech.acchakannada.com/">{{ page.title }}</a>
           {% endif %}
         {% endfor %}
       </ul>
