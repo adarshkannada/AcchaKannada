@@ -1,0 +1,33 @@
+---
+layout: post
+title: "ಉರಿ"
+date: 2024-08-24
+author: Adarsha
+categories: Poem
+tags:	AcchaKannada Kannada Life Karnataka India Poem Happy Sad Young me happiness live greatfull uri fire burn benki power force live
+cover: "assets/uri-acchakannada.png"
+description: ಕಿಡಿ ಇದ್ದಾಗ ಹೊತ್ತಿಕೊಂಡುಬಿಡು, ಎಲ್ಲ ಉರಿದಾಗ ಬೂದಿಯಾಗೋದಿದೆ.
+
+---
+
+<p align ="center"> ಬೆಂಕಿಯಿದ್ದಾಗ ಉರಿದುಬಿಡು, ಆರಿದಾಗ ತಣ್ಣಗಿರೋದಿದೆ, <br>
+ರಭಸವಿದ್ದಾಗ ಹರಿದುಬಿಡು, ಸೆಳೆತ ಕಳೆದಮೇಲೆ ನಿಲ್ಲೋದಿದೆ. </p>
+
+<p align ="center"> ಜಿಗಿದಾಡು, ಒದ್ದಾಡು ಮಣಿಯಲೇಬೇಕು, <br>
+ಮೆರೆದಾಡು, ಸುಮ್ಮನಿರು, ಅಳಿಯಲೇಬೇಕು. <br>
+ಒದ್ದಾಡಿ, ಜಿಗಿದಾಡಿ ಮಣಿಬೇಕು ಎಂದಾಗ, <br>
+ಜಿಗಿದಾಡೇ ಮಣಿಯುವ. <br>
+ಮೆರೆದಾಡಿದರೂ, ಸುಮ್ಮನಿದ್ದುರೂ ಅಳಿಯಬೇಕು ಎಂದಾಗ, <br>
+ಮೆರೆದಾಡೇ ಅಳಿಯುವ. </p>
+
+<p align ="center"> ನೇಸರ ಹೊತ್ತಿ ಉರಿದರೂ ಕೊನೆಗೆ ತಂಪು, <br>
+ಭೂಮಿ ಬಿರುಕಿ ಸಿಡಿದರೂ ಕೊನೆಗೆ ಸಂಪು, <br>
+ಆಳಾಗು ಅರಸನಾಗು, ಮಣ್ಣಾಗೋದಿದೆ, <br>
+ಹೊತ್ತಿ ಉರಿದೇಬಿಡು ಇರುವಾಗ, ಏನಿಲ್ಲ ತಪ್ಪು. </p>
+
+<p align ="center"> ಒಳಗೆ ಕಿಡಿ ಇದ್ದಾಗ ಹೊತ್ತಿಕೊಂಡುಬಿಡು. <br>
+ಎಲ್ಲ ಉರಿದಾಗ ಬೂದಿಯಾಗೋದಿದೆ. <br>
+ರಭಸವಿದ್ದಾಗ ಕೊಚ್ಚಿ ಹರಿದುಬಿಡು, <br>
+ಸೆಳೆತ ಇಳಿದಮೇಲೆ ನಿಲ್ಲೋದಿದೆ. </p>
+
+<p align ="center"> - ಆದರ್ಶ </p>
