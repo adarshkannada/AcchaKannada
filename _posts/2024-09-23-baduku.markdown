@@ -1,0 +1,31 @@
+---
+layout: post
+title: "ಬದುಕು"
+date: 2024-09-07
+author: Adarsha
+categories: Poem
+tags:	AcchaKannada Kannada Life Karnataka India Poem Happy Sad Young me happiness live greatfull uri fire burn benki power force live friends friendship win love success
+cover: "assets/baduke-acchakannada.jpg"
+description: ಮತ್ತೆ ಬದುಕಬೇಕಿದೆ ಈಗ, ಕರುಣೆ ಚೆಲ್ಲು! ಉಸಿರಿನಲ್ಲಿ ಬೆರೆತು ಮತ್ತೆ ನೆಲೆ ನಿಲ್ಲು.
+
+---
+
+<p align ="center"> ಎಲ್ಲಿ ಕಳೆದು ಹೋದೆಯೇ ಬದುಕೆ, <br>
+ಹುಡುಕುತಿರುವೆ ನಿನ್ನ,. <br>
+ಕರುಣೆ ತೋರು ಬಾ,  <br>
+ಮತ್ತೆ ಬಿಗಿದಪ್ಪು ನನ್ನ. </p>
+
+<p align ="center"> ಸುತ್ತಲಿರುವ ಗಾಳಿಯಂಗೆ ಇದ್ದರೂ	 ಸಿಗಲಾರೆ, <br>
+ಹಿಡಿಯಲಿ ಹೇಗೆ ನಿನ್ನ, ಸರಿದಿರುವೆ ಈ ಕೈಯ್ಯಾರೆ. <br>
+ಕನಸಂತೆ ನೀನು, ನನಸಾಗು ಬೇಗ, <br>
+ಅರಿವಿಗೆ ಬರಬೇಕು, ತೆರೆದು ಹಾಕಿರುವ ಬೀಗ. </p>
+
+<p align ="center"> ಎಲ್ಲಿ ಉಳಿದು ಹೋದೆಯೇ ಬದುಕೆ, <br>
+ಬಂದ ಹಾದಿಯಲ್ಲಿ ನಿನ್ನ ಹುಡುಕಬೇಕೆ? <br>
+ಅಲೆಸಬೇಡ ನನ್ನ ಮುಗಿಯದ ಬಯಲಲ್ಲಿ, <br>
+ಬೇಗ ಮಳೆ ಸುರಿಸು ಅಂತರಂಗದಲ್ಲಿ. </p>
+
+<p align ="center"> ಮತ್ತೆ ಬದುಕಬೇಕಿದೆ ಈಗ, ಕರುಣೆ ಚೆಲ್ಲು, <br>
+ಉಸಿರಿನಲ್ಲಿ ಬೆರೆತು ಮತ್ತೆ ನೆಲೆ ನಿಲ್ಲು. </p>
+
+<p align ="center"> - ಆದರ್ಶ </p>
