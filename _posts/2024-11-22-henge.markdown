@@ -5,7 +5,7 @@ date: 2024-11-22
 author: Adarsha
 categories: Poem
 tags:	AcchaKannada Kannada Life Karnataka India Poem how give take donate expect philosophy satire tamashe nagu
-cover: "assets/"
+cover: "assets/henge-acchakannada.jpg"
 description: ನಾವು ಕೊಡದೇ ತಿರುಗಿ ಕೇಳೋದೆಂಗೆ? ಕೂಗದೆ ದನಿ, ತಿರುಗಿ ಬರಲು ಕಾಯುವಂಗೆ.
 
 ---
