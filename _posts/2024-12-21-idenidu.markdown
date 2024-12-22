@@ -5,8 +5,8 @@ date: 2024-12-21
 author: Chethan
 categories: Discussion
 tags:	Acchakannada Kannada life karnataka blog discussion god philosophy tatva charche
-cover: "assets/"
-description: 
+cover: "assets/enidu-acchakannada.png"
+description:  ಜೀವನದಲ್ಲಿ ನನ್ನ ಪ್ರಕಾರ ಮುಖ್ಯವಾಗಿ ಬೇಕಾಗಿರುವ ಒಂದು ಗುಣ ಅಂತ ಅಂದ್ರೆ ನಂಬಿಕೆ.
 
 ---
 
